@@ -38,5 +38,5 @@ gem 'spring',        group: :development
 # Use debugger
 # gem 'debugger', group: [:development, :test]
 
-gem 'carrierwave'
-gem 'rmagick'
+gem 'carrierwave', '0.10.0'
+gem 'rmagick', '2.13.3'
