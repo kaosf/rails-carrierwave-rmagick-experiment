@@ -14,6 +14,14 @@ Experiment for carrierwave, rmagick and carrierwave-magic.
 * Ruby: 2.1.4p265
 * Rails: 4.1.4
 
+### Dependencies
+
+Some packages are needed for this project.
+
+```bash
+sudo apt-get install libmagickwand-dev libmagic-dev
+```
+
 ## References
 
 * [carrierwaveuploader/carrierwave](https://github.com/carrierwaveuploader/carrierwave)
