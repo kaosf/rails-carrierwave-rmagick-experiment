@@ -39,4 +39,5 @@ gem 'spring',        group: :development
 # gem 'debugger', group: [:development, :test]
 
 gem 'carrierwave', '0.10.0'
+gem 'carrierwave-magic', '0.0.4'
 gem 'rmagick', '2.13.3'
