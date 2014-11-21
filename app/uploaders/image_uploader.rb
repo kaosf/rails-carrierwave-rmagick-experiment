@@ -56,4 +56,6 @@ class ImageUploader < CarrierWave::Uploader::Base
   #   "something.jpg" if original_filename
   # end
 
+  include CarrierWave::Magic
+  process :set_magic_content_type => [true]
 end
